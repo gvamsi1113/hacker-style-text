@@ -23,5 +23,5 @@ document.querySelector("h1").onmouseover = e => {
         }
         // console.log(iters);
         letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-    }, 30);
+    }, 20);
 }
